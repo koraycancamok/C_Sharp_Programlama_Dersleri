@@ -1,0 +1,13 @@
+C:\Users\Koray Can Çamok\source\repos\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.exe
+C:\Users\Koray Can Çamok\source\repos\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.deps.json
+C:\Users\Koray Can Çamok\source\repos\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.runtimeconfig.json
+C:\Users\Koray Can Çamok\source\repos\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.runtimeconfig.dev.json
+C:\Users\Koray Can Çamok\source\repos\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.dll
+C:\Users\Koray Can Çamok\source\repos\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.pdb
+C:\Users\Koray Can Çamok\source\repos\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.csprojAssemblyReference.cache
+C:\Users\Koray Can Çamok\source\repos\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.csproj.CoreCompileInputs.cache
+C:\Users\Koray Can Çamok\source\repos\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.AssemblyInfoInputs.cache
+C:\Users\Koray Can Çamok\source\repos\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.AssemblyInfo.cs
+C:\Users\Koray Can Çamok\source\repos\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.dll
+C:\Users\Koray Can Çamok\source\repos\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.pdb
+C:\Users\Koray Can Çamok\source\repos\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.genruntimeconfig.cache
