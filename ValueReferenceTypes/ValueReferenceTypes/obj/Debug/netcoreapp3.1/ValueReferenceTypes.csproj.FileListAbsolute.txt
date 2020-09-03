@@ -1,0 +1,12 @@
+C:\Users\Koray Can Çamok\source\repos\ValueReferenceTypes\ValueReferenceTypes\bin\Debug\netcoreapp3.1\ValueReferenceTypes.exe
+C:\Users\Koray Can Çamok\source\repos\ValueReferenceTypes\ValueReferenceTypes\bin\Debug\netcoreapp3.1\ValueReferenceTypes.deps.json
+C:\Users\Koray Can Çamok\source\repos\ValueReferenceTypes\ValueReferenceTypes\bin\Debug\netcoreapp3.1\ValueReferenceTypes.runtimeconfig.json
+C:\Users\Koray Can Çamok\source\repos\ValueReferenceTypes\ValueReferenceTypes\bin\Debug\netcoreapp3.1\ValueReferenceTypes.runtimeconfig.dev.json
+C:\Users\Koray Can Çamok\source\repos\ValueReferenceTypes\ValueReferenceTypes\bin\Debug\netcoreapp3.1\ValueReferenceTypes.dll
+C:\Users\Koray Can Çamok\source\repos\ValueReferenceTypes\ValueReferenceTypes\bin\Debug\netcoreapp3.1\ValueReferenceTypes.pdb
+C:\Users\Koray Can Çamok\source\repos\ValueReferenceTypes\ValueReferenceTypes\obj\Debug\netcoreapp3.1\ValueReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\Koray Can Çamok\source\repos\ValueReferenceTypes\ValueReferenceTypes\obj\Debug\netcoreapp3.1\ValueReferenceTypes.AssemblyInfoInputs.cache
+C:\Users\Koray Can Çamok\source\repos\ValueReferenceTypes\ValueReferenceTypes\obj\Debug\netcoreapp3.1\ValueReferenceTypes.AssemblyInfo.cs
+C:\Users\Koray Can Çamok\source\repos\ValueReferenceTypes\ValueReferenceTypes\obj\Debug\netcoreapp3.1\ValueReferenceTypes.dll
+C:\Users\Koray Can Çamok\source\repos\ValueReferenceTypes\ValueReferenceTypes\obj\Debug\netcoreapp3.1\ValueReferenceTypes.pdb
+C:\Users\Koray Can Çamok\source\repos\ValueReferenceTypes\ValueReferenceTypes\obj\Debug\netcoreapp3.1\ValueReferenceTypes.genruntimeconfig.cache
