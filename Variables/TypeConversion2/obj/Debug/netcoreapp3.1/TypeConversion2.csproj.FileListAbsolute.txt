@@ -1,0 +1,12 @@
+C:\Users\Koray Can Çamok\source\repos\Variables\TypeConversion2\bin\Debug\netcoreapp3.1\TypeConversion2.exe
+C:\Users\Koray Can Çamok\source\repos\Variables\TypeConversion2\bin\Debug\netcoreapp3.1\TypeConversion2.deps.json
+C:\Users\Koray Can Çamok\source\repos\Variables\TypeConversion2\bin\Debug\netcoreapp3.1\TypeConversion2.runtimeconfig.json
+C:\Users\Koray Can Çamok\source\repos\Variables\TypeConversion2\bin\Debug\netcoreapp3.1\TypeConversion2.runtimeconfig.dev.json
+C:\Users\Koray Can Çamok\source\repos\Variables\TypeConversion2\bin\Debug\netcoreapp3.1\TypeConversion2.dll
+C:\Users\Koray Can Çamok\source\repos\Variables\TypeConversion2\bin\Debug\netcoreapp3.1\TypeConversion2.pdb
+C:\Users\Koray Can Çamok\source\repos\Variables\TypeConversion2\obj\Debug\netcoreapp3.1\TypeConversion2.csproj.CoreCompileInputs.cache
+C:\Users\Koray Can Çamok\source\repos\Variables\TypeConversion2\obj\Debug\netcoreapp3.1\TypeConversion2.AssemblyInfoInputs.cache
+C:\Users\Koray Can Çamok\source\repos\Variables\TypeConversion2\obj\Debug\netcoreapp3.1\TypeConversion2.AssemblyInfo.cs
+C:\Users\Koray Can Çamok\source\repos\Variables\TypeConversion2\obj\Debug\netcoreapp3.1\TypeConversion2.dll
+C:\Users\Koray Can Çamok\source\repos\Variables\TypeConversion2\obj\Debug\netcoreapp3.1\TypeConversion2.pdb
+C:\Users\Koray Can Çamok\source\repos\Variables\TypeConversion2\obj\Debug\netcoreapp3.1\TypeConversion2.genruntimeconfig.cache
