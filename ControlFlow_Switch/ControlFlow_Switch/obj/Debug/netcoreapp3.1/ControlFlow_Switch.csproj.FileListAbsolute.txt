@@ -1,0 +1,13 @@
+C:\Users\Koray Can Çamok\source\repos\ControlFlow_Switch\ControlFlow_Switch\bin\Debug\netcoreapp3.1\ControlFlow_Switch.exe
+C:\Users\Koray Can Çamok\source\repos\ControlFlow_Switch\ControlFlow_Switch\bin\Debug\netcoreapp3.1\ControlFlow_Switch.deps.json
+C:\Users\Koray Can Çamok\source\repos\ControlFlow_Switch\ControlFlow_Switch\bin\Debug\netcoreapp3.1\ControlFlow_Switch.runtimeconfig.json
+C:\Users\Koray Can Çamok\source\repos\ControlFlow_Switch\ControlFlow_Switch\bin\Debug\netcoreapp3.1\ControlFlow_Switch.runtimeconfig.dev.json
+C:\Users\Koray Can Çamok\source\repos\ControlFlow_Switch\ControlFlow_Switch\bin\Debug\netcoreapp3.1\ControlFlow_Switch.dll
+C:\Users\Koray Can Çamok\source\repos\ControlFlow_Switch\ControlFlow_Switch\bin\Debug\netcoreapp3.1\ControlFlow_Switch.pdb
+C:\Users\Koray Can Çamok\source\repos\ControlFlow_Switch\ControlFlow_Switch\obj\Debug\netcoreapp3.1\ControlFlow_Switch.csprojAssemblyReference.cache
+C:\Users\Koray Can Çamok\source\repos\ControlFlow_Switch\ControlFlow_Switch\obj\Debug\netcoreapp3.1\ControlFlow_Switch.csproj.CoreCompileInputs.cache
+C:\Users\Koray Can Çamok\source\repos\ControlFlow_Switch\ControlFlow_Switch\obj\Debug\netcoreapp3.1\ControlFlow_Switch.AssemblyInfoInputs.cache
+C:\Users\Koray Can Çamok\source\repos\ControlFlow_Switch\ControlFlow_Switch\obj\Debug\netcoreapp3.1\ControlFlow_Switch.AssemblyInfo.cs
+C:\Users\Koray Can Çamok\source\repos\ControlFlow_Switch\ControlFlow_Switch\obj\Debug\netcoreapp3.1\ControlFlow_Switch.dll
+C:\Users\Koray Can Çamok\source\repos\ControlFlow_Switch\ControlFlow_Switch\obj\Debug\netcoreapp3.1\ControlFlow_Switch.pdb
+C:\Users\Koray Can Çamok\source\repos\ControlFlow_Switch\ControlFlow_Switch\obj\Debug\netcoreapp3.1\ControlFlow_Switch.genruntimeconfig.cache
