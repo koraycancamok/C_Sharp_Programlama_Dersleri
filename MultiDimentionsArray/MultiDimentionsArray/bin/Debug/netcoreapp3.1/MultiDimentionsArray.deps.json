@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MultiDimentionsArray/1.0.0": {
+        "runtime": {
+          "MultiDimentionsArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MultiDimentionsArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

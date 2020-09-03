@@ -1,0 +1,13 @@
+C:\Users\Koray Can Çamok\source\repos\MultiDimentionsArray\MultiDimentionsArray\bin\Debug\netcoreapp3.1\MultiDimentionsArray.exe
+C:\Users\Koray Can Çamok\source\repos\MultiDimentionsArray\MultiDimentionsArray\bin\Debug\netcoreapp3.1\MultiDimentionsArray.deps.json
+C:\Users\Koray Can Çamok\source\repos\MultiDimentionsArray\MultiDimentionsArray\bin\Debug\netcoreapp3.1\MultiDimentionsArray.runtimeconfig.json
+C:\Users\Koray Can Çamok\source\repos\MultiDimentionsArray\MultiDimentionsArray\bin\Debug\netcoreapp3.1\MultiDimentionsArray.runtimeconfig.dev.json
+C:\Users\Koray Can Çamok\source\repos\MultiDimentionsArray\MultiDimentionsArray\bin\Debug\netcoreapp3.1\MultiDimentionsArray.dll
+C:\Users\Koray Can Çamok\source\repos\MultiDimentionsArray\MultiDimentionsArray\bin\Debug\netcoreapp3.1\MultiDimentionsArray.pdb
+C:\Users\Koray Can Çamok\source\repos\MultiDimentionsArray\MultiDimentionsArray\obj\Debug\netcoreapp3.1\MultiDimentionsArray.csproj.CoreCompileInputs.cache
+C:\Users\Koray Can Çamok\source\repos\MultiDimentionsArray\MultiDimentionsArray\obj\Debug\netcoreapp3.1\MultiDimentionsArray.AssemblyInfoInputs.cache
+C:\Users\Koray Can Çamok\source\repos\MultiDimentionsArray\MultiDimentionsArray\obj\Debug\netcoreapp3.1\MultiDimentionsArray.AssemblyInfo.cs
+C:\Users\Koray Can Çamok\source\repos\MultiDimentionsArray\MultiDimentionsArray\obj\Debug\netcoreapp3.1\MultiDimentionsArray.dll
+C:\Users\Koray Can Çamok\source\repos\MultiDimentionsArray\MultiDimentionsArray\obj\Debug\netcoreapp3.1\MultiDimentionsArray.pdb
+C:\Users\Koray Can Çamok\source\repos\MultiDimentionsArray\MultiDimentionsArray\obj\Debug\netcoreapp3.1\MultiDimentionsArray.genruntimeconfig.cache
+C:\Users\Koray Can Çamok\source\repos\MultiDimentionsArray\MultiDimentionsArray\obj\Debug\netcoreapp3.1\MultiDimentionsArray.csprojAssemblyReference.cache
