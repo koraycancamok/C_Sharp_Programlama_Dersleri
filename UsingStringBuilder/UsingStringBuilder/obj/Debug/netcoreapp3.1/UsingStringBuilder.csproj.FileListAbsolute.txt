@@ -1,0 +1,13 @@
+C:\Users\Koray Can Çamok\source\repos\UsingStringBuilder\UsingStringBuilder\obj\Debug\netcoreapp3.1\UsingStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Koray Can Çamok\source\repos\UsingStringBuilder\UsingStringBuilder\obj\Debug\netcoreapp3.1\UsingStringBuilder.AssemblyInfoInputs.cache
+C:\Users\Koray Can Çamok\source\repos\UsingStringBuilder\UsingStringBuilder\obj\Debug\netcoreapp3.1\UsingStringBuilder.AssemblyInfo.cs
+C:\Users\Koray Can Çamok\source\repos\UsingStringBuilder\UsingStringBuilder\bin\Debug\netcoreapp3.1\UsingStringBuilder.exe
+C:\Users\Koray Can Çamok\source\repos\UsingStringBuilder\UsingStringBuilder\bin\Debug\netcoreapp3.1\UsingStringBuilder.deps.json
+C:\Users\Koray Can Çamok\source\repos\UsingStringBuilder\UsingStringBuilder\bin\Debug\netcoreapp3.1\UsingStringBuilder.runtimeconfig.json
+C:\Users\Koray Can Çamok\source\repos\UsingStringBuilder\UsingStringBuilder\bin\Debug\netcoreapp3.1\UsingStringBuilder.runtimeconfig.dev.json
+C:\Users\Koray Can Çamok\source\repos\UsingStringBuilder\UsingStringBuilder\bin\Debug\netcoreapp3.1\UsingStringBuilder.dll
+C:\Users\Koray Can Çamok\source\repos\UsingStringBuilder\UsingStringBuilder\bin\Debug\netcoreapp3.1\UsingStringBuilder.pdb
+C:\Users\Koray Can Çamok\source\repos\UsingStringBuilder\UsingStringBuilder\obj\Debug\netcoreapp3.1\UsingStringBuilder.dll
+C:\Users\Koray Can Çamok\source\repos\UsingStringBuilder\UsingStringBuilder\obj\Debug\netcoreapp3.1\UsingStringBuilder.pdb
+C:\Users\Koray Can Çamok\source\repos\UsingStringBuilder\UsingStringBuilder\obj\Debug\netcoreapp3.1\UsingStringBuilder.genruntimeconfig.cache
+C:\Users\Koray Can Çamok\source\repos\UsingStringBuilder\UsingStringBuilder\obj\Debug\netcoreapp3.1\UsingStringBuilder.csprojAssemblyReference.cache
