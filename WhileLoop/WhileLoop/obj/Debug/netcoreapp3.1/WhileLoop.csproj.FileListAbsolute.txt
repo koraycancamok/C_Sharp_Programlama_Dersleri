@@ -1,0 +1,13 @@
+C:\Users\Koray Can Çamok\source\repos\WhileLoop\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.exe
+C:\Users\Koray Can Çamok\source\repos\WhileLoop\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.deps.json
+C:\Users\Koray Can Çamok\source\repos\WhileLoop\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.runtimeconfig.json
+C:\Users\Koray Can Çamok\source\repos\WhileLoop\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.runtimeconfig.dev.json
+C:\Users\Koray Can Çamok\source\repos\WhileLoop\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.dll
+C:\Users\Koray Can Çamok\source\repos\WhileLoop\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.pdb
+C:\Users\Koray Can Çamok\source\repos\WhileLoop\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.csprojAssemblyReference.cache
+C:\Users\Koray Can Çamok\source\repos\WhileLoop\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\Koray Can Çamok\source\repos\WhileLoop\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.AssemblyInfoInputs.cache
+C:\Users\Koray Can Çamok\source\repos\WhileLoop\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.AssemblyInfo.cs
+C:\Users\Koray Can Çamok\source\repos\WhileLoop\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.dll
+C:\Users\Koray Can Çamok\source\repos\WhileLoop\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.pdb
+C:\Users\Koray Can Çamok\source\repos\WhileLoop\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.genruntimeconfig.cache
