@@ -1,0 +1,13 @@
+C:\Users\Koray Can Çamok\source\repos\Searching\Searching\bin\Debug\netcoreapp3.1\Searching.exe
+C:\Users\Koray Can Çamok\source\repos\Searching\Searching\bin\Debug\netcoreapp3.1\Searching.deps.json
+C:\Users\Koray Can Çamok\source\repos\Searching\Searching\bin\Debug\netcoreapp3.1\Searching.runtimeconfig.json
+C:\Users\Koray Can Çamok\source\repos\Searching\Searching\bin\Debug\netcoreapp3.1\Searching.runtimeconfig.dev.json
+C:\Users\Koray Can Çamok\source\repos\Searching\Searching\bin\Debug\netcoreapp3.1\Searching.dll
+C:\Users\Koray Can Çamok\source\repos\Searching\Searching\bin\Debug\netcoreapp3.1\Searching.pdb
+C:\Users\Koray Can Çamok\source\repos\Searching\Searching\obj\Debug\netcoreapp3.1\Searching.csproj.CoreCompileInputs.cache
+C:\Users\Koray Can Çamok\source\repos\Searching\Searching\obj\Debug\netcoreapp3.1\Searching.AssemblyInfoInputs.cache
+C:\Users\Koray Can Çamok\source\repos\Searching\Searching\obj\Debug\netcoreapp3.1\Searching.AssemblyInfo.cs
+C:\Users\Koray Can Çamok\source\repos\Searching\Searching\obj\Debug\netcoreapp3.1\Searching.dll
+C:\Users\Koray Can Çamok\source\repos\Searching\Searching\obj\Debug\netcoreapp3.1\Searching.pdb
+C:\Users\Koray Can Çamok\source\repos\Searching\Searching\obj\Debug\netcoreapp3.1\Searching.genruntimeconfig.cache
+C:\Users\Koray Can Çamok\source\repos\Searching\Searching\obj\Debug\netcoreapp3.1\Searching.csprojAssemblyReference.cache
