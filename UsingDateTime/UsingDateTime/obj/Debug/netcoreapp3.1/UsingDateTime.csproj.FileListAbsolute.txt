@@ -1,0 +1,13 @@
+C:\Users\Koray Can Çamok\source\repos\UsingDateTime\UsingDateTime\bin\Debug\netcoreapp3.1\UsingDateTime.exe
+C:\Users\Koray Can Çamok\source\repos\UsingDateTime\UsingDateTime\bin\Debug\netcoreapp3.1\UsingDateTime.deps.json
+C:\Users\Koray Can Çamok\source\repos\UsingDateTime\UsingDateTime\bin\Debug\netcoreapp3.1\UsingDateTime.runtimeconfig.json
+C:\Users\Koray Can Çamok\source\repos\UsingDateTime\UsingDateTime\bin\Debug\netcoreapp3.1\UsingDateTime.runtimeconfig.dev.json
+C:\Users\Koray Can Çamok\source\repos\UsingDateTime\UsingDateTime\bin\Debug\netcoreapp3.1\UsingDateTime.dll
+C:\Users\Koray Can Çamok\source\repos\UsingDateTime\UsingDateTime\bin\Debug\netcoreapp3.1\UsingDateTime.pdb
+C:\Users\Koray Can Çamok\source\repos\UsingDateTime\UsingDateTime\obj\Debug\netcoreapp3.1\UsingDateTime.csprojAssemblyReference.cache
+C:\Users\Koray Can Çamok\source\repos\UsingDateTime\UsingDateTime\obj\Debug\netcoreapp3.1\UsingDateTime.csproj.CoreCompileInputs.cache
+C:\Users\Koray Can Çamok\source\repos\UsingDateTime\UsingDateTime\obj\Debug\netcoreapp3.1\UsingDateTime.AssemblyInfoInputs.cache
+C:\Users\Koray Can Çamok\source\repos\UsingDateTime\UsingDateTime\obj\Debug\netcoreapp3.1\UsingDateTime.AssemblyInfo.cs
+C:\Users\Koray Can Çamok\source\repos\UsingDateTime\UsingDateTime\obj\Debug\netcoreapp3.1\UsingDateTime.dll
+C:\Users\Koray Can Çamok\source\repos\UsingDateTime\UsingDateTime\obj\Debug\netcoreapp3.1\UsingDateTime.pdb
+C:\Users\Koray Can Çamok\source\repos\UsingDateTime\UsingDateTime\obj\Debug\netcoreapp3.1\UsingDateTime.genruntimeconfig.cache
