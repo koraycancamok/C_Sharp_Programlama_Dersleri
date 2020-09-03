@@ -1,0 +1,12 @@
+C:\Users\Koray Can Çamok\source\repos\Variables\AssignmentOperators2\obj\Debug\netcoreapp3.1\AssignmentOperators2.csproj.CoreCompileInputs.cache
+C:\Users\Koray Can Çamok\source\repos\Variables\AssignmentOperators2\obj\Debug\netcoreapp3.1\AssignmentOperators2.AssemblyInfoInputs.cache
+C:\Users\Koray Can Çamok\source\repos\Variables\AssignmentOperators2\obj\Debug\netcoreapp3.1\AssignmentOperators2.AssemblyInfo.cs
+C:\Users\Koray Can Çamok\source\repos\Variables\AssignmentOperators2\bin\Debug\netcoreapp3.1\AssignmentOperators2.exe
+C:\Users\Koray Can Çamok\source\repos\Variables\AssignmentOperators2\bin\Debug\netcoreapp3.1\AssignmentOperators2.deps.json
+C:\Users\Koray Can Çamok\source\repos\Variables\AssignmentOperators2\bin\Debug\netcoreapp3.1\AssignmentOperators2.runtimeconfig.json
+C:\Users\Koray Can Çamok\source\repos\Variables\AssignmentOperators2\bin\Debug\netcoreapp3.1\AssignmentOperators2.runtimeconfig.dev.json
+C:\Users\Koray Can Çamok\source\repos\Variables\AssignmentOperators2\bin\Debug\netcoreapp3.1\AssignmentOperators2.dll
+C:\Users\Koray Can Çamok\source\repos\Variables\AssignmentOperators2\bin\Debug\netcoreapp3.1\AssignmentOperators2.pdb
+C:\Users\Koray Can Çamok\source\repos\Variables\AssignmentOperators2\obj\Debug\netcoreapp3.1\AssignmentOperators2.dll
+C:\Users\Koray Can Çamok\source\repos\Variables\AssignmentOperators2\obj\Debug\netcoreapp3.1\AssignmentOperators2.pdb
+C:\Users\Koray Can Çamok\source\repos\Variables\AssignmentOperators2\obj\Debug\netcoreapp3.1\AssignmentOperators2.genruntimeconfig.cache
