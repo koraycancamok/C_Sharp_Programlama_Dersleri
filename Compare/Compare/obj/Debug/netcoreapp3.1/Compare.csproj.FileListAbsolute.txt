@@ -1,0 +1,13 @@
+C:\Users\Koray Can Çamok\source\repos\Compare\Compare\bin\Debug\netcoreapp3.1\Compare.exe
+C:\Users\Koray Can Çamok\source\repos\Compare\Compare\bin\Debug\netcoreapp3.1\Compare.deps.json
+C:\Users\Koray Can Çamok\source\repos\Compare\Compare\bin\Debug\netcoreapp3.1\Compare.runtimeconfig.json
+C:\Users\Koray Can Çamok\source\repos\Compare\Compare\bin\Debug\netcoreapp3.1\Compare.runtimeconfig.dev.json
+C:\Users\Koray Can Çamok\source\repos\Compare\Compare\bin\Debug\netcoreapp3.1\Compare.dll
+C:\Users\Koray Can Çamok\source\repos\Compare\Compare\bin\Debug\netcoreapp3.1\Compare.pdb
+C:\Users\Koray Can Çamok\source\repos\Compare\Compare\obj\Debug\netcoreapp3.1\Compare.csprojAssemblyReference.cache
+C:\Users\Koray Can Çamok\source\repos\Compare\Compare\obj\Debug\netcoreapp3.1\Compare.csproj.CoreCompileInputs.cache
+C:\Users\Koray Can Çamok\source\repos\Compare\Compare\obj\Debug\netcoreapp3.1\Compare.AssemblyInfoInputs.cache
+C:\Users\Koray Can Çamok\source\repos\Compare\Compare\obj\Debug\netcoreapp3.1\Compare.AssemblyInfo.cs
+C:\Users\Koray Can Çamok\source\repos\Compare\Compare\obj\Debug\netcoreapp3.1\Compare.dll
+C:\Users\Koray Can Çamok\source\repos\Compare\Compare\obj\Debug\netcoreapp3.1\Compare.pdb
+C:\Users\Koray Can Çamok\source\repos\Compare\Compare\obj\Debug\netcoreapp3.1\Compare.genruntimeconfig.cache
