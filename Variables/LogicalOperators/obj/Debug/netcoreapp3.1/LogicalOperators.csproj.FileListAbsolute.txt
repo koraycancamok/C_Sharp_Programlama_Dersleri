@@ -1,0 +1,13 @@
+C:\Users\Koray Can Çamok\source\repos\Variables\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.exe
+C:\Users\Koray Can Çamok\source\repos\Variables\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.deps.json
+C:\Users\Koray Can Çamok\source\repos\Variables\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.runtimeconfig.json
+C:\Users\Koray Can Çamok\source\repos\Variables\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.runtimeconfig.dev.json
+C:\Users\Koray Can Çamok\source\repos\Variables\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.dll
+C:\Users\Koray Can Çamok\source\repos\Variables\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.pdb
+C:\Users\Koray Can Çamok\source\repos\Variables\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.csproj.CoreCompileInputs.cache
+C:\Users\Koray Can Çamok\source\repos\Variables\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.AssemblyInfoInputs.cache
+C:\Users\Koray Can Çamok\source\repos\Variables\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.AssemblyInfo.cs
+C:\Users\Koray Can Çamok\source\repos\Variables\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.dll
+C:\Users\Koray Can Çamok\source\repos\Variables\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.pdb
+C:\Users\Koray Can Çamok\source\repos\Variables\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.genruntimeconfig.cache
+C:\Users\Koray Can Çamok\source\repos\Variables\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.csprojAssemblyReference.cache
