@@ -1,0 +1,13 @@
+C:\Users\Koray Can Çamok\source\repos\UsingArray\UsingArray\bin\Debug\netcoreapp3.1\UsingArray.exe
+C:\Users\Koray Can Çamok\source\repos\UsingArray\UsingArray\bin\Debug\netcoreapp3.1\UsingArray.deps.json
+C:\Users\Koray Can Çamok\source\repos\UsingArray\UsingArray\bin\Debug\netcoreapp3.1\UsingArray.runtimeconfig.json
+C:\Users\Koray Can Çamok\source\repos\UsingArray\UsingArray\bin\Debug\netcoreapp3.1\UsingArray.runtimeconfig.dev.json
+C:\Users\Koray Can Çamok\source\repos\UsingArray\UsingArray\bin\Debug\netcoreapp3.1\UsingArray.dll
+C:\Users\Koray Can Çamok\source\repos\UsingArray\UsingArray\bin\Debug\netcoreapp3.1\UsingArray.pdb
+C:\Users\Koray Can Çamok\source\repos\UsingArray\UsingArray\obj\Debug\netcoreapp3.1\UsingArray.csprojAssemblyReference.cache
+C:\Users\Koray Can Çamok\source\repos\UsingArray\UsingArray\obj\Debug\netcoreapp3.1\UsingArray.csproj.CoreCompileInputs.cache
+C:\Users\Koray Can Çamok\source\repos\UsingArray\UsingArray\obj\Debug\netcoreapp3.1\UsingArray.AssemblyInfoInputs.cache
+C:\Users\Koray Can Çamok\source\repos\UsingArray\UsingArray\obj\Debug\netcoreapp3.1\UsingArray.AssemblyInfo.cs
+C:\Users\Koray Can Çamok\source\repos\UsingArray\UsingArray\obj\Debug\netcoreapp3.1\UsingArray.dll
+C:\Users\Koray Can Çamok\source\repos\UsingArray\UsingArray\obj\Debug\netcoreapp3.1\UsingArray.pdb
+C:\Users\Koray Can Çamok\source\repos\UsingArray\UsingArray\obj\Debug\netcoreapp3.1\UsingArray.genruntimeconfig.cache
