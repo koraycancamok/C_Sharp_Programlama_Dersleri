@@ -1,0 +1,13 @@
+C:\Users\Koray Can Çamok\source\repos\doWhile\doWhile2\obj\Debug\netcoreapp3.1\doWhile2.csprojAssemblyReference.cache
+C:\Users\Koray Can Çamok\source\repos\doWhile\doWhile2\obj\Debug\netcoreapp3.1\doWhile2.csproj.CoreCompileInputs.cache
+C:\Users\Koray Can Çamok\source\repos\doWhile\doWhile2\obj\Debug\netcoreapp3.1\doWhile2.AssemblyInfoInputs.cache
+C:\Users\Koray Can Çamok\source\repos\doWhile\doWhile2\obj\Debug\netcoreapp3.1\doWhile2.AssemblyInfo.cs
+C:\Users\Koray Can Çamok\source\repos\doWhile\doWhile2\bin\Debug\netcoreapp3.1\doWhile2.exe
+C:\Users\Koray Can Çamok\source\repos\doWhile\doWhile2\bin\Debug\netcoreapp3.1\doWhile2.deps.json
+C:\Users\Koray Can Çamok\source\repos\doWhile\doWhile2\bin\Debug\netcoreapp3.1\doWhile2.runtimeconfig.json
+C:\Users\Koray Can Çamok\source\repos\doWhile\doWhile2\bin\Debug\netcoreapp3.1\doWhile2.runtimeconfig.dev.json
+C:\Users\Koray Can Çamok\source\repos\doWhile\doWhile2\bin\Debug\netcoreapp3.1\doWhile2.dll
+C:\Users\Koray Can Çamok\source\repos\doWhile\doWhile2\bin\Debug\netcoreapp3.1\doWhile2.pdb
+C:\Users\Koray Can Çamok\source\repos\doWhile\doWhile2\obj\Debug\netcoreapp3.1\doWhile2.dll
+C:\Users\Koray Can Çamok\source\repos\doWhile\doWhile2\obj\Debug\netcoreapp3.1\doWhile2.pdb
+C:\Users\Koray Can Çamok\source\repos\doWhile\doWhile2\obj\Debug\netcoreapp3.1\doWhile2.genruntimeconfig.cache
