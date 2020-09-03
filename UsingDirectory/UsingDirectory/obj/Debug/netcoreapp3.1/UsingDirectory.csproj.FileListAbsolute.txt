@@ -1,0 +1,13 @@
+C:\Users\Koray Can Çamok\source\repos\UsingDirectory\UsingDirectory\obj\Debug\netcoreapp3.1\UsingDirectory.csprojAssemblyReference.cache
+C:\Users\Koray Can Çamok\source\repos\UsingDirectory\UsingDirectory\obj\Debug\netcoreapp3.1\UsingDirectory.csproj.CoreCompileInputs.cache
+C:\Users\Koray Can Çamok\source\repos\UsingDirectory\UsingDirectory\obj\Debug\netcoreapp3.1\UsingDirectory.AssemblyInfoInputs.cache
+C:\Users\Koray Can Çamok\source\repos\UsingDirectory\UsingDirectory\obj\Debug\netcoreapp3.1\UsingDirectory.AssemblyInfo.cs
+C:\Users\Koray Can Çamok\source\repos\UsingDirectory\UsingDirectory\bin\Debug\netcoreapp3.1\UsingDirectory.exe
+C:\Users\Koray Can Çamok\source\repos\UsingDirectory\UsingDirectory\bin\Debug\netcoreapp3.1\UsingDirectory.deps.json
+C:\Users\Koray Can Çamok\source\repos\UsingDirectory\UsingDirectory\bin\Debug\netcoreapp3.1\UsingDirectory.runtimeconfig.json
+C:\Users\Koray Can Çamok\source\repos\UsingDirectory\UsingDirectory\bin\Debug\netcoreapp3.1\UsingDirectory.runtimeconfig.dev.json
+C:\Users\Koray Can Çamok\source\repos\UsingDirectory\UsingDirectory\bin\Debug\netcoreapp3.1\UsingDirectory.dll
+C:\Users\Koray Can Çamok\source\repos\UsingDirectory\UsingDirectory\bin\Debug\netcoreapp3.1\UsingDirectory.pdb
+C:\Users\Koray Can Çamok\source\repos\UsingDirectory\UsingDirectory\obj\Debug\netcoreapp3.1\UsingDirectory.dll
+C:\Users\Koray Can Çamok\source\repos\UsingDirectory\UsingDirectory\obj\Debug\netcoreapp3.1\UsingDirectory.pdb
+C:\Users\Koray Can Çamok\source\repos\UsingDirectory\UsingDirectory\obj\Debug\netcoreapp3.1\UsingDirectory.genruntimeconfig.cache
