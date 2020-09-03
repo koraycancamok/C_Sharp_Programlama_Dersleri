@@ -1,0 +1,13 @@
+C:\Users\Koray Can Çamok\source\repos\UsingFiles\UsingFiles\bin\Debug\netcoreapp3.1\UsingFiles.exe
+C:\Users\Koray Can Çamok\source\repos\UsingFiles\UsingFiles\bin\Debug\netcoreapp3.1\UsingFiles.deps.json
+C:\Users\Koray Can Çamok\source\repos\UsingFiles\UsingFiles\bin\Debug\netcoreapp3.1\UsingFiles.runtimeconfig.json
+C:\Users\Koray Can Çamok\source\repos\UsingFiles\UsingFiles\bin\Debug\netcoreapp3.1\UsingFiles.runtimeconfig.dev.json
+C:\Users\Koray Can Çamok\source\repos\UsingFiles\UsingFiles\bin\Debug\netcoreapp3.1\UsingFiles.dll
+C:\Users\Koray Can Çamok\source\repos\UsingFiles\UsingFiles\bin\Debug\netcoreapp3.1\UsingFiles.pdb
+C:\Users\Koray Can Çamok\source\repos\UsingFiles\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.csprojAssemblyReference.cache
+C:\Users\Koray Can Çamok\source\repos\UsingFiles\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.csproj.CoreCompileInputs.cache
+C:\Users\Koray Can Çamok\source\repos\UsingFiles\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.AssemblyInfoInputs.cache
+C:\Users\Koray Can Çamok\source\repos\UsingFiles\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.AssemblyInfo.cs
+C:\Users\Koray Can Çamok\source\repos\UsingFiles\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.dll
+C:\Users\Koray Can Çamok\source\repos\UsingFiles\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.pdb
+C:\Users\Koray Can Çamok\source\repos\UsingFiles\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.genruntimeconfig.cache
