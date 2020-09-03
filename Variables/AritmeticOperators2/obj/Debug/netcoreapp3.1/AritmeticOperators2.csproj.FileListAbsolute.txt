@@ -1,0 +1,13 @@
+C:\Users\Koray Can Çamok\source\repos\Variables\AritmeticOperators2\bin\Debug\netcoreapp3.1\AritmeticOperators2.exe
+C:\Users\Koray Can Çamok\source\repos\Variables\AritmeticOperators2\bin\Debug\netcoreapp3.1\AritmeticOperators2.deps.json
+C:\Users\Koray Can Çamok\source\repos\Variables\AritmeticOperators2\bin\Debug\netcoreapp3.1\AritmeticOperators2.runtimeconfig.json
+C:\Users\Koray Can Çamok\source\repos\Variables\AritmeticOperators2\bin\Debug\netcoreapp3.1\AritmeticOperators2.runtimeconfig.dev.json
+C:\Users\Koray Can Çamok\source\repos\Variables\AritmeticOperators2\bin\Debug\netcoreapp3.1\AritmeticOperators2.dll
+C:\Users\Koray Can Çamok\source\repos\Variables\AritmeticOperators2\bin\Debug\netcoreapp3.1\AritmeticOperators2.pdb
+C:\Users\Koray Can Çamok\source\repos\Variables\AritmeticOperators2\obj\Debug\netcoreapp3.1\AritmeticOperators2.csprojAssemblyReference.cache
+C:\Users\Koray Can Çamok\source\repos\Variables\AritmeticOperators2\obj\Debug\netcoreapp3.1\AritmeticOperators2.csproj.CoreCompileInputs.cache
+C:\Users\Koray Can Çamok\source\repos\Variables\AritmeticOperators2\obj\Debug\netcoreapp3.1\AritmeticOperators2.AssemblyInfoInputs.cache
+C:\Users\Koray Can Çamok\source\repos\Variables\AritmeticOperators2\obj\Debug\netcoreapp3.1\AritmeticOperators2.AssemblyInfo.cs
+C:\Users\Koray Can Çamok\source\repos\Variables\AritmeticOperators2\obj\Debug\netcoreapp3.1\AritmeticOperators2.dll
+C:\Users\Koray Can Çamok\source\repos\Variables\AritmeticOperators2\obj\Debug\netcoreapp3.1\AritmeticOperators2.pdb
+C:\Users\Koray Can Çamok\source\repos\Variables\AritmeticOperators2\obj\Debug\netcoreapp3.1\AritmeticOperators2.genruntimeconfig.cache
