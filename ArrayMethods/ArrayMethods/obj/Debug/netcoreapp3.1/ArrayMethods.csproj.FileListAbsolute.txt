@@ -1,0 +1,13 @@
+C:\Users\Koray Can Çamok\source\repos\ArrayMethods\ArrayMethods\bin\Debug\netcoreapp3.1\ArrayMethods.exe
+C:\Users\Koray Can Çamok\source\repos\ArrayMethods\ArrayMethods\bin\Debug\netcoreapp3.1\ArrayMethods.deps.json
+C:\Users\Koray Can Çamok\source\repos\ArrayMethods\ArrayMethods\bin\Debug\netcoreapp3.1\ArrayMethods.runtimeconfig.json
+C:\Users\Koray Can Çamok\source\repos\ArrayMethods\ArrayMethods\bin\Debug\netcoreapp3.1\ArrayMethods.runtimeconfig.dev.json
+C:\Users\Koray Can Çamok\source\repos\ArrayMethods\ArrayMethods\bin\Debug\netcoreapp3.1\ArrayMethods.dll
+C:\Users\Koray Can Çamok\source\repos\ArrayMethods\ArrayMethods\bin\Debug\netcoreapp3.1\ArrayMethods.pdb
+C:\Users\Koray Can Çamok\source\repos\ArrayMethods\ArrayMethods\obj\Debug\netcoreapp3.1\ArrayMethods.csproj.CoreCompileInputs.cache
+C:\Users\Koray Can Çamok\source\repos\ArrayMethods\ArrayMethods\obj\Debug\netcoreapp3.1\ArrayMethods.AssemblyInfoInputs.cache
+C:\Users\Koray Can Çamok\source\repos\ArrayMethods\ArrayMethods\obj\Debug\netcoreapp3.1\ArrayMethods.AssemblyInfo.cs
+C:\Users\Koray Can Çamok\source\repos\ArrayMethods\ArrayMethods\obj\Debug\netcoreapp3.1\ArrayMethods.dll
+C:\Users\Koray Can Çamok\source\repos\ArrayMethods\ArrayMethods\obj\Debug\netcoreapp3.1\ArrayMethods.pdb
+C:\Users\Koray Can Çamok\source\repos\ArrayMethods\ArrayMethods\obj\Debug\netcoreapp3.1\ArrayMethods.genruntimeconfig.cache
+C:\Users\Koray Can Çamok\source\repos\ArrayMethods\ArrayMethods\obj\Debug\netcoreapp3.1\ArrayMethods.csprojAssemblyReference.cache
